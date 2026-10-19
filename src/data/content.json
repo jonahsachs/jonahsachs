@@ -1,0 +1,205 @@
+{
+  "siteName": "Jonah Sachs",
+  "title": "Jonah Sachs – Author, Expert and Speaker on Storytelling, Creativity and Social Change",
+  "linkedin": "https://www.linkedin.com/in/jonahsachs",
+  "twitter": "https://twitter.com/jonahsachs",
+  "home": {
+    "intro": "Jonah Sachs helps Fortune 500 companies, cutting-edge entrepreneurs, international organizations and small businesses learn how to break old patterns and make new connections so they can create powerful, meaningful, radical change.",
+    "bookHeading": "My Latest Book",
+    "bookDesc": "Learn how to take the bold yet intelligent risks that will help you thrive in business — and in life.",
+    "quotes": [
+      "\"...It will propel you out of your rut and onto a path of better, sharper thinking.\" -Dan Pink, NYT Best-selling author",
+      "\"... A blazingly original book that will help any business bust free from losing thought patterns .\" - Mary Karr, author The Liar's Club"
+    ],
+    "buyUrl": "https://www.amazon.com/Unsafe-Thinking-Nimble-Bold-When/dp/0738220140",
+    "changeHeading": "Change the Way the World Works",
+    "changeQuote": "There's a deeply rooted drive in each of us to bring our most cherished values into the world so we can better ourselves, our communities, our businesses and even our planet.",
+    "changeBody": "Jonah partners with the world's most innovative companies and dynamic leaders to help them break through creative walls and overcome personal and professional obstacles that stand in the way of transformational change."
+  },
+  "appearances": [
+    "googl3.jpg",
+    "npr.png",
+    "bbc.png",
+    "paypal.jpg",
+    "asana.png",
+    "rsa.png",
+    "rotman.png",
+    "storytelling.png",
+    "australianbroadcasting.png",
+    "abcradio.png",
+    "we.png"
+  ],
+  "about": {
+    "lead": "Jonah Sachs is a social change advocate, entrepreneur and the author of Winning the Story Wars.",
+    "paras": [
+      "As co-founder of Free Range Studios, Jonah created some of the world's first, and still most heralded, digital social change campaigns. In 2007, Jonah helped launch The Story of Stuff, which was viewed more than 60 million times and marked a turning point in the fight to educate the public about the environmental and social impact of consumer goods. Jonah went on to to lead groundbreaking campaigns for Greenpeace International, The Center for Humane Technology, Action for the Climate Emergency and the ACLU, as well as major brands including Microsoft and Patagonia.",
+      "Jonah's work and opinions have been featured in The New York Times, The Washington Post, CNN, FOX News, the Sundance Film Festival and NPR. Fast Company named him one of today's 50 most influential social innovators."
+    ],
+    "booksHeading": "Books",
+    "booksParas": [
+      "In 2012, Jonah released Winning the Story Wars, a deep dive into the stories that have the power to break through the noise and to open minds, move hearts and change behaviors. Published by Harvard Business Review Press, Winning the Story Wars was hailed as \"a storytelling call to arms\" by Dan Heath, \"important and thought-provoking\" by Deepak Chopra, and \"wise and enlightening\" by Bath & Body Works CEO Nick Coe.",
+      "Sachs' most recent book, Unsafe Thinking: How to Be Nimble and Bold When You Need it Most, has won praise from luminaries including Daniel Pink, who says the book \"will propel you…onto a path of better, sharper thinking\"; Adam Grant, who calls it \"enchanting\"; and Mary Karr, who lauds the book for being \"blazingly original.\""
+    ],
+    "awards": [
+      "Fast Company's Fast 50 Most Influential Social Innovators",
+      "Sundance Digital Festival Selection (Beyond the Fire)",
+      "Best of Annecy Animation Festival (the Meatrix)",
+      "Webby Award Best Non-Profit Website (the Meatrix)",
+      "Webby Award Non-Profit Animation (350.org)",
+      "Smithsonian Cooper Hewitt Design Award (Story of Stuff)",
+      "Yale/GMU Climate Communicator of the Year (Alliance for Climate Education)",
+      "Food and Wine Tastemaker Award",
+      "Multiple Polly Awards (Hybrid v Hummer, John Kerry for President)",
+      "Multiple Telly Golds (Story of Stuff, Story of Bottled Water, Great Crate Challenge)"
+    ]
+  },
+  "books": {
+    "unsafe": {
+      "title": "Unsafe Thinking",
+      "subtitle": "How to be Nimble and Bold When You Need it Most",
+      "links": [
+        {
+          "label": "Amazon",
+          "href": "https://www.amazon.com/Unsafe-Thinking-Nimble-Bold-When-ebook/dp/B074M6CXS1"
+        },
+        {
+          "label": "iBooks",
+          "href": "https://itunes.apple.com/us/book/unsafe-thinking/id1268515992?mt=11"
+        },
+        {
+          "label": "Barnes & Noble",
+          "href": "https://www.barnesandnoble.com/w/unsafe-thinking-jonah-sachs/1126941684?ean=9780738220154"
+        },
+        {
+          "label": "Books-A-Million",
+          "href": "http://www.booksamillion.com/p/9780738220154"
+        },
+        {
+          "label": "Indie Bound",
+          "href": "https://www.indiebound.org/book/9780738220154"
+        },
+        {
+          "label": "800-CEO-Read",
+          "href": "https://www.800ceoread.com/products/unsafe-thinking-jonah-sachs-jonah-sachs-english"
+        }
+      ],
+      "lead": "LEARN HOW TO TAKE THE BOLD YET INTELLIGENT RISKS THAT WILL HELP YOU THRIVE IN BUSINESS—AND IN LIFE.",
+      "intro": "How can you challenge and change yourself when you need it most? We're creatures of habit, programmed by evolution to favor the safe and familiar, especially when the stakes are high. But this bias now works against us in a world where change is accelerating.",
+      "bullets": [
+        "Why your area of deep expertise is often where you'll find your biggest blind spots",
+        "Why anxiety can be fuel for creativity",
+        "When to trust intuition and when to challenge it",
+        "How collaborating only with those that share your values stunts your creativity",
+        "How to build an organization that embraces intelligent risk ."
+      ],
+      "closing": "An inspiring and accessible read, Unsafe Thinking has the power to change the way you approach your work and your life.",
+      "praise": [
+        "\"An enchanting book about how to question the conventional, challenge the status quo, and unlock the creative solutions right under your nose.\" —Adam Grant, author of Originals, Give and Take, and Option B",
+        "\"Unsafe Thinking will propel you out of your rut and onto a path of better, sharper thinking.\" —Daniel H Pink, author of When and To Sell is Human",
+        "\"A blazingly original book. In crisp, breezy prose, Sachs details winning strategies from explorers and business organizations through history. I found the stories themselves riveting, and Unsafe Thinking's lessons invaluable.\" —Mary Karr, author of The Liars' Club",
+        "\"A deeply insightful book for creators that only a creator could write.\" —Peter Sims, founder & CEO, Parliament, Inc., author of Little Bets",
+        "\"A practical and truly entertaining roadmap to becoming more creative and productive. A must read for anyone facing a changing world.\" —Jonah Berger, Wharton Professor, author of Contagious",
+        "\"All innovators have to have very tough skins. But beyond the peril of going against the crowd is the joy of fresh creation. Read this book and reflect on your own life. It could make a big difference.\" —Esther Dyson",
+        "\"Unsafe Thinking provides an inspiring and practical guide on how to truly think outside of the box and stay in productive flow. Master storyteller Jonah Sachs combines the latest research with accessible stories that will leave you inspired and ready to take smart risks.\" —Scott Barry Kaufman"
+      ]
+    },
+    "storyWars": {
+      "title": "Winning the Story Wars",
+      "worksheetNote": "Click here for Story Wars Worksheets and Storytelling Tips",
+      "worksheetUrl": "https://drive.google.com/file/d/1TH-22rttIYPBz45MeiLGnWO11Iy6QVR_/view?usp=sharing",
+      "intro": "Trying to get your message heard? Build an iconic brand? Welcome to the battlefield. The story wars are all around us. They are the struggle to be heard in a world of media noise and clamor. Today, most personal and organizational messages get lost, but a few cutting-edge communicators have mastered the art of storytelling and are winning the war for attention.",
+      "bullets": [
+        "Social media tools are driving a return to the oral tradition, in which stories that matter rise above the fray",
+        "Marketers have become today's mythmakers, providing society with explanation, meaning, and ritual",
+        "Memorable stories based on timeless themes build legions of eager evangelists",
+        "Marketers and audiences can work together to create deeper meaning and stronger partnerships in building a better world",
+        "Brands like Old Spice, The Story of Stuff, Nike, the Tea Party, and Occupy Wall Street created and sustained massive viral buzz"
+      ],
+      "closing": "Winning the Story Wars is a call to arms for business communicators to cast aside broken traditions and join a revolution to build the iconic brands of the future. It puts marketers in the role of heroes with a chance to transform not just their craft but the world we live in.",
+      "quote": "Dan Heath, coauthor, Switch and Made to Stick—\"Jonah Sachs knows stories. He's responsible for some of the most popular and respected viral messages of all time: The Story of Stuff, The Meatrix, and more. In Winning the Story Wars, he shares his secrets and strategies. This is a storytelling call to arms.\""
+    }
+  },
+  "speaking": {
+    "lead": "Jonah speaks to audiences around the world, guiding them on how they can break patterns and make new connections to create powerful, meaningful, and radical change.",
+    "paras": [
+      "A master storyteller, Jonah creates a unique and intimate connection with his audiences, channeling the wisdom of thinkers from across disciplines and drawing on his experience building some of the most innovative and effective social change campaigns of the past two decades.",
+      "Jonah has spoken or presented at events including Salesforce's Dreamforce, South By Southwest, and Sundance Film Festival, as well as at companies including Microsoft, LinkedIn, GoDaddy, Pepsi, L'Oréal and more."
+    ],
+    "testimonial": "\"Jonah was a dynamic speaker. He brought to life the importance of authentic storytelling.\"",
+    "topics": [
+      "Unsafe Thinking: How Individuals and Teams Can Use Mindset Change to Unlock Creativity and Take Bold, Intelligent Risks",
+      "Winning the Story Wars: How to Leverage the Timeless Art of Storytelling to Breakthrough in Today's Noisy Digital World",
+      "Harnessing the Power of Creativity and Storytelling to Succeed in Any Field"
+    ],
+    "logos": [
+      "1-microsoft.png",
+      "2-godaddy.png",
+      "3-linkedin.png",
+      "4-pepsi.png",
+      "5-loreal.png",
+      "6-dreamforce.png",
+      "7-ama.png",
+      "8-brandcamp.png",
+      "9-national-coop.png",
+      "10-university-michigan.png",
+      "11-tedx.png",
+      "12-stanford.png",
+      "13-greenpeace.png",
+      "14-aclu.png"
+    ],
+    "formNote": "To learn more about my talks, availability and fees, please fill out the short form below."
+  },
+  "worksheets": {
+    "heading": "Worksheets",
+    "body": "For readers of Winning the Story Wars who wish to further practice the methodology outlined in the book, please visit the resources found here.",
+    "url": "https://drive.google.com/file/d/1TH-22rttIYPBz45MeiLGnWO11Iy6QVR_/view?usp=sharing"
+  },
+  "contact": {
+    "heading": "Let's Talk",
+    "body": "If you'd like to inquire about having me speak or have questions about storytelling and creativity, reach me on Twitter — @jonahsachs — or fill out the form below."
+  },
+  "articles": [
+    {
+      "title": "If Investors Really Listened to Data, They'd be Investing in Women",
+      "url": "https://www.fastcompany.com/40568407/if-investors-really-listened-to-data-theyd-be-investing-in-women",
+      "date": "June 12, 2018",
+      "image": "https://images.squarespace-cdn.com/content/v1/58b713171e5b6cd71066b70b/1530134380632-AKZHJ4CODSSLNS0W6BM4/poster-p-1-Why-Intuition-Keeps-Leading-Investors-Astray.jpg",
+      "imageLocal": "/images/writing/00.jpg"
+    },
+    {
+      "title": "Human Evolution Favors Safe Thinking. As an Entrepreneur, You Need to Be Unsafe.",
+      "url": "https://www.entrepreneur.com/article/312198",
+      "date": "May 3, 2018",
+      "image": "https://images.squarespace-cdn.com/content/v1/58b713171e5b6cd71066b70b/1530134178930-Q0LIVQZDYS9O9HGYD93U/20180419215003-GettyImages-aog50280.jpeg",
+      "imageLocal": "/images/writing/01.jpg"
+    },
+    {
+      "title": "Confessions of an Idea Bully",
+      "url": "https://www.linkedin.com/pulse/confessions-idea-bully-jonah-sachs/",
+      "date": "April 29, 2018",
+      "image": "https://images.squarespace-cdn.com/content/v1/58b713171e5b6cd71066b70b/1530133885825-TL78MW82YB80059XI1BR/0.jpeg",
+      "imageLocal": "/images/writing/02.jpg"
+    },
+    {
+      "title": "The unintended consequences of a too-nice work culture",
+      "url": "https://work.qz.com/1260571/at-work-a-respectful-culture-is-better-than-a-nice-one/",
+      "date": "April 24, 2018",
+      "image": "https://images.squarespace-cdn.com/content/v1/58b713171e5b6cd71066b70b/1530129454266-UUG0NMKV563Q7C3O0MLJ/ap_110412131069-e1524574556338.jpg",
+      "imageLocal": "/images/writing/03.jpg"
+    },
+    {
+      "title": "How this Startup is Using Time Banking to Deliver Social Purpose",
+      "url": "https://www.fastcompany.com/40584110/how-this-startup-is-using-time-banking-to-deliver-social-purpose",
+      "date": "March 27, 2018",
+      "image": "https://images.squarespace-cdn.com/content/v1/58b713171e5b6cd71066b70b/1530134667151-2FMOAR6U7O9W0L0XCW16/p-1-40584110-time-banking.jpg",
+      "imageLocal": "/images/writing/04.jpg"
+    },
+    {
+      "title": "\"Less of the Same\"",
+      "url": "http://www.fastcoexist.com/3068200/when-this-entrepreneurs-thriving-business-lost-its-purpose-he-walked-away",
+      "date": "February 16, 2017",
+      "image": "https://images.squarespace-cdn.com/content/v1/58b713171e5b6cd71066b70b/1488405122417-PDBH02819BLJYJ9PNYZ5/image-asset.jpeg",
+      "imageLocal": "/images/writing/05.jpg"
+    }
+  ]
+}
