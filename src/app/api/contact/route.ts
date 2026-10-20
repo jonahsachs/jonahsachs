@@ -3,21 +3,20 @@ import { NextResponse } from "next/server";
 type Payload = {
   name?: string;
   email?: string;
-  subject?: string;
   message?: string;
 };
 
 export async function POST(request: Request) {
   const body = (await request.json()) as Payload;
-  const { name, email, subject, message } = body;
+  const { name, email, message } = body;
 
-  if (!name || !email || !subject || !message) {
+  if (!name || !email || !message) {
     return NextResponse.json({ error: "Missing fields" }, { status: 400 });
   }
 
   const formspreeId = process.env.FORMSPREE_FORM_ID;
   if (!formspreeId) {
-    console.log("[contact]", { name, email, subject, message });
+    console.log("[contact]", { name, email, message });
     return NextResponse.json({
       ok: true,
       note: "Logged locally — set FORMSPREE_FORM_ID to deliver email.",
@@ -30,7 +29,12 @@ export async function POST(request: Request) {
       Accept: "application/json",
       "Content-Type": "application/json",
     },
-    body: JSON.stringify({ name, email, subject, message }),
+    body: JSON.stringify({
+      name,
+      email,
+      subject: `Note from ${name}`,
+      message,
+    }),
   });
 
   if (!res.ok) {

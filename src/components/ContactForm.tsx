@@ -4,11 +4,7 @@ import { FormEvent, useState } from "react";
 
 type Status = "idle" | "sending" | "sent" | "error";
 
-export function ContactForm({
-  subjectDefault = "Website inquiry",
-}: {
-  subjectDefault?: string;
-}) {
+export function ContactForm() {
   const [status, setStatus] = useState<Status>("idle");
 
   async function onSubmit(e: FormEvent<HTMLFormElement>) {
@@ -28,7 +24,6 @@ export function ContactForm({
         body: JSON.stringify({
           name: data.get("name"),
           email: data.get("email"),
-          subject: data.get("subject") || subjectDefault,
           message: data.get("message"),
         }),
       });
@@ -41,25 +36,21 @@ export function ContactForm({
   }
 
   if (status === "sent") {
-    return <p className="form-success">Thank you. Your message has been sent.</p>;
+    return <p className="form-success">Thanks. I’ll get back to you.</p>;
   }
 
   return (
     <form className="contact-form" onSubmit={onSubmit}>
       <label>
         Name
-        <input name="name" required />
+        <input name="name" required autoComplete="name" />
       </label>
       <label>
         Email
-        <input name="email" type="email" required />
+        <input name="email" type="email" required autoComplete="email" />
       </label>
       <label>
-        Subject
-        <input name="subject" defaultValue={subjectDefault} required />
-      </label>
-      <label>
-        Message
+        Note
         <textarea name="message" rows={6} required />
       </label>
       <input
@@ -70,12 +61,8 @@ export function ContactForm({
         className="hp"
         aria-hidden="true"
       />
-      <button
-        type="submit"
-        className="btn submit-btn"
-        disabled={status === "sending"}
-      >
-        {status === "sending" ? "Sending…" : "Submit"}
+      <button type="submit" disabled={status === "sending"}>
+        {status === "sending" ? "Sending…" : "Send"}
       </button>
       {status === "error" ? (
         <p className="form-error">Something went wrong. Please try again.</p>

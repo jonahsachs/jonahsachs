@@ -1,6 +1,6 @@
 # Jonah Sachs
 
-Recreation of [jonahsachs.com](https://www.jonahsachs.com) for free hosting on Vercel.
+Single-page site at [jonahsachs.com](https://www.jonahsachs.com).
 
 ## Local development
 
@@ -9,16 +9,10 @@ npm install
 npm run dev
 ```
 
-## Deploy
+## Contact form
 
-1. Push to GitHub
-2. Import the repo in [Vercel](https://vercel.com/new)
-3. Set `FORMSPREE_FORM_ID` for the contact form
-4. Point `jonahsachs.com` DNS at Vercel (domain is on **GoDaddy**)
+Set `FORMSPREE_FORM_ID` in Vercel (or `.env.local`) so notes are emailed.
 
-### DNS (GoDaddy)
+## Type
 
-After adding the domain in Vercel Domains:
-
-- Apex `A` records → values Vercel shows
-- `www` `CNAME` → value Vercel shows
+Prestige Elite is used when it is installed on the visitor’s machine. The site falls back to Courier Prime, a free typewriter face, so it still looks right in the browser.

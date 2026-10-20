@@ -1,21 +1,16 @@
 import type { Metadata } from "next";
-import { Header } from "@/components/Header";
-import { Footer } from "@/components/Footer";
-import { site } from "@/lib/content";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: {
-    default: site.title,
-    template: `%s — ${site.siteName}`,
-  },
-  description: site.home.intro,
+  title: "Jonah Sachs",
+  description:
+    "If you'd like to get in touch with me about storytelling, a speaking engagement, or one of my films and books, you can send me a note here.",
   icons: { icon: "/favicon.ico" },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className="h-full">
+    <html lang="en">
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
@@ -24,15 +19,11 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           crossOrigin="anonymous"
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap"
           rel="stylesheet"
         />
       </head>
-      <body className="min-h-full flex flex-col">
-        <Header />
-        <main className="flex-1">{children}</main>
-        <Footer />
-      </body>
+      <body>{children}</body>
     </html>
   );
 }
